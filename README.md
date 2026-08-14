@@ -230,15 +230,6 @@ Credit-Risk-Prediction/
 ├── Model_Comparison.csv
 ├── data_Report.html
 │
-├── Models/
-│   ├── xgboost_credit_risk.pkl
-│   ├── lightgbm.pkl
-│   ├── random_forest.pkl
-│   ├── balanced_random_forest.pkl
-│   ├── decision_tree.pkl
-│   ├── logistic_regression.pkl
-│   ├── knn.pkl
-│   └── voting_classifier.pkl
 │
 ├── Figures/
 │   ├── correlation_heatmap.png
